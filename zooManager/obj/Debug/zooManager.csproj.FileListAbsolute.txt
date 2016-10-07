@@ -1,0 +1,15 @@
+\\psf\home\documents\visual studio 2013\Projects\zooManager\zooManager\bin\Debug\zooManager.exe.config
+\\psf\home\documents\visual studio 2013\Projects\zooManager\zooManager\bin\Debug\zooManager.exe
+\\psf\home\documents\visual studio 2013\Projects\zooManager\zooManager\bin\Debug\zooManager.pdb
+\\psf\home\documents\visual studio 2013\Projects\zooManager\zooManager\obj\Debug\zooManager.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2013\Projects\zooManager\zooManager\obj\Debug\zooManager.Form1.resources
+\\psf\home\documents\visual studio 2013\Projects\zooManager\zooManager\obj\Debug\zooManager.Properties.Resources.resources
+\\psf\home\documents\visual studio 2013\Projects\zooManager\zooManager\obj\Debug\zooManager.SplashScreen.resources
+\\psf\home\documents\visual studio 2013\Projects\zooManager\zooManager\obj\Debug\zooManager.csproj.GenerateResource.Cache
+\\psf\home\documents\visual studio 2013\Projects\zooManager\zooManager\obj\Debug\zooManager.exe
+\\psf\home\documents\visual studio 2013\Projects\zooManager\zooManager\obj\Debug\zooManager.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\zooManager\zooManager\obj\Debug\zooManager.ForgotPasswordForm.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\zooManager\zooManager\obj\Debug\zooManager.UserHomeForm.resources
+\\psf\Home\Documents\Projects\zooManager\zooManager\bin\Debug\zooManager.exe.config
+\\psf\Home\Documents\Projects\zooManager\zooManager\obj\Debug\zooManager.exe
+\\psf\Home\Documents\Projects\zooManager\zooManager\obj\Debug\zooManager.pdb

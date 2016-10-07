@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User>
+    <Id>0</Id>
+    <Name>Admin</Name>
+    <Surname>Admin</Surname>
+    <Login>admin</Login>
+    <Password>admin</Password>
+    <Group>2</Group>
+    <SecretPhrase>admin</SecretPhrase>
+  </User>
+  <User>
+    <Id>1</Id>
+    <Name>test</Name>
+    <Surname>test</Surname>
+    <Login>test</Login>
+    <Password>test</Password>
+    <Group>0</Group>
+    <SecretPhrase>test</SecretPhrase>
+  </User>
+</ArrayOfUser>
